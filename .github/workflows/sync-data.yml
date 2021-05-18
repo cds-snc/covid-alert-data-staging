@@ -26,8 +26,8 @@ jobs:
 
     - name: download unmasked metrics
       run : |
-        mkdir -p masked_metrics
-        aws s3 sync s3://masked-metrics-snfsv-staging/ ./masked_metrics --region=ca-central-1
+        mkdir -p unmasked_metrics
+        aws s3 sync s3://unmasked-metrics-snfsv-staging/ ./unmasked_metrics --region=ca-central-1
 
     - name: Commit Metrics
       run: |
