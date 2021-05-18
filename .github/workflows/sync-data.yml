@@ -4,17 +4,17 @@ on: [workflow_dispatch]
   # schedule:
   #   - cron: "37 3 * * *"  # Wednesday 03:57 UTC (just before the hour to avoid the rush on GH runners)
 
-jobs: 
+jobs:
   masked_metrics:
     runs-on: ubuntu-latest
     steps:
 
-    - name: Configure Demo AWS credentials
+    - name: Configure Staging AWS credentials
       id: aws-demo
       uses: aws-actions/configure-aws-credentials@v1
       with:
-        aws-access-key-id: ${{ secrets.DEMO_AWS_ACCESS_KEY_ID }}
-        aws-secret-access-key: ${{ secrets.DEMO_AWS_SECRET_ACCESS_KEY }}
+        aws-access-key-id: ${{ secrets.STAGING_AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.STAGING_AWS_SECRET_ACCESS_KEY }}
         aws-region: ca-central-1
 
     - uses: actions/checkout@v2
@@ -33,12 +33,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - name: Configure Demo AWS credentials
+    - name: Configure Staging AWS credentials
       id: aws-demo
       uses: aws-actions/configure-aws-credentials@v1
       with:
-        aws-access-key-id: ${{ secrets.DEMO_AWS_ACCESS_KEY_ID }}
-        aws-secret-access-key: ${{ secrets.DEMO_AWS_SECRET_ACCESS_KEY }}
+        aws-access-key-id: ${{ secrets.STAGING_AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.STAGING_AWS_SECRET_ACCESS_KEY }}
         aws-region: ca-central-1
 
     - uses: actions/checkout@v2
