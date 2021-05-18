@@ -5,7 +5,7 @@ on: [workflow_dispatch]
   #   - cron: "37 3 * * *"  # Wednesday 03:57 UTC (just before the hour to avoid the rush on GH runners)
 
 jobs:
-  masked_metrics:
+  update_metrics:
     runs-on: ubuntu-latest
     steps:
 
@@ -21,12 +21,12 @@ jobs:
 
     - name: download masked metrics
       run : |
-        mkdir masked_metrics
+        mkdir -p masked_metrics
         aws s3 sync s3://masked-metrics-snfsv-staging/ ./masked_metrics --region=ca-central-1
 
     - name: download unmasked metrics
       run : |
-        mkdir masked_metrics
+        mkdir -p masked_metrics
         aws s3 sync s3://masked-metrics-snfsv-staging/ ./masked_metrics --region=ca-central-1
 
     - name: Commit Metrics
