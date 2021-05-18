@@ -4,7 +4,7 @@ on: [workflow_dispatch]
   # schedule:
   #   - cron: "37 3 * * *"  # Wednesday 03:57 UTC (just before the hour to avoid the rush on GH runners)
 
-job: 
+jobs: 
   masked_metrics:
     runs-on: ubuntu-latest
     steps:
