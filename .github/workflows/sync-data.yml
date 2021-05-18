@@ -1,0 +1,53 @@
+name: Sync Metrics
+on: [workflow_dispatch]
+  # workflow_dispatch:
+  # schedule:
+  #   - cron: "37 3 * * *"  # Wednesday 03:57 UTC (just before the hour to avoid the rush on GH runners)
+
+job: 
+  masked_metrics:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Configure Demo AWS credentials
+      id: aws-demo
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.DEMO_AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.DEMO_AWS_SECRET_ACCESS_KEY }}
+        aws-region: ca-central-1
+
+    - uses: actions/checkout@v2
+    - name: Sync Metrics
+      run: |
+        mkdir masked_metrics
+        aws s3 sync s3://masked-metrics-snfsv-staging/ ./masked_metrics --region=ca-central-1
+        git config --local user.email "action@github.com"
+        git config --local user.name "SRE Internal"
+        git add -A
+        git commit -m "Adding masked metrics on `date '+%Y-%m-%d'`" -a
+        git push https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git HEAD:main
+
+
+  unmasked_metrics:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Configure Demo AWS credentials
+      id: aws-demo
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.DEMO_AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.DEMO_AWS_SECRET_ACCESS_KEY }}
+        aws-region: ca-central-1
+
+    - uses: actions/checkout@v2
+    - name: Sync Metrics
+      run: |
+        mkdir unmasked_metrics
+        aws s3 sync s3://unmasked-metrics-snfsv-staging/ ./unmasked_metrics --region=ca-central-1
+        git config --local user.email "action@github.com"
+        git config --local user.name "Covid Alert Metrics"
+        git add -A
+        git commit -m "Adding unmasked metrics on `date '+%Y-%m-%d'`" -a
+        git push https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git HEAD:main
