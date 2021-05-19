@@ -1,8 +1,8 @@
 name: Sync Metrics
 on:
   workflow_dispatch:
-    schedule:
-      - cron: "47 3 * * *"  # at 03:47 UTC (just before the hour to avoid the rush on GH runners)
+  schedule:
+    - cron: "47 3 * * *"  # at 03:47 UTC (just before the hour to avoid the rush on GH runners)
 
 jobs:
   update_metrics:
