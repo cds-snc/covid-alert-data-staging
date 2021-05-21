@@ -497,3 +497,15 @@ date,framework_status,notification_permission,count
 2021-05-18,disabled,blocked,<20
 2021-05-18,disabled,granted,<20
 2021-05-18,disabled,denied,<20
+2021-05-19,enabled,blocked,<20
+2021-05-19,enabled,granted,<20
+2021-05-19,enabled,denied,<20
+2021-05-19,disabled,blocked,<20
+2021-05-19,disabled,granted,<20
+2021-05-19,disabled,denied,<20
+2021-05-20,enabled,blocked,<20
+2021-05-20,enabled,granted,<20
+2021-05-20,enabled,denied,<20
+2021-05-20,disabled,blocked,<20
+2021-05-20,disabled,granted,<20
+2021-05-20,disabled,denied,<20
