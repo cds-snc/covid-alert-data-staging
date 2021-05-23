@@ -509,3 +509,9 @@ date,framework_status,notification_permission,count
 2021-05-20,disabled,blocked,<20
 2021-05-20,disabled,granted,<20
 2021-05-20,disabled,denied,<20
+2021-05-21,enabled,blocked,<20
+2021-05-21,enabled,granted,<20
+2021-05-21,enabled,denied,<20
+2021-05-21,disabled,blocked,<20
+2021-05-21,disabled,granted,<20
+2021-05-21,disabled,denied,<20
