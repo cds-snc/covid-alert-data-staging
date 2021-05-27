@@ -1,4 +1,4 @@
-date,framework_status,notification_permission,count
+date,framework_status-etat_cadre,notification_permission-permission_notif,count-nombre
 2021-02-25,enabled,blocked,<20
 2021-02-25,enabled,granted,<20
 2021-02-25,enabled,denied,<20
@@ -533,3 +533,9 @@ date,framework_status,notification_permission,count
 2021-05-24,disabled,blocked,<20
 2021-05-24,disabled,granted,<20
 2021-05-24,disabled,denied,<20
+2021-05-25,enabled,blocked,<20
+2021-05-25,enabled,granted,<20
+2021-05-25,enabled,denied,<20
+2021-05-25,disabled,blocked,<20
+2021-05-25,disabled,granted,<20
+2021-05-25,disabled,denied,<20

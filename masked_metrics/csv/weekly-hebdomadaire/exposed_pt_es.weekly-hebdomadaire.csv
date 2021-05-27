@@ -1,4 +1,4 @@
-date,region,exposure_status,count
+date,region,exposure_status-etat_verification,count-nombre
 2021-03-28,AB,exposed,<20
 2021-03-28,AB,monitoring,<20
 2021-03-28,BC,exposed,<20

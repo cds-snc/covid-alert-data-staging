@@ -1,4 +1,4 @@
-date,appos,count
+date,os-se,count-nombre
 2021-04-21,android,<20
 2021-04-21,ios,<20
 2021-04-22,android,<20
@@ -67,3 +67,5 @@ date,appos,count
 2021-05-23,ios,2286
 2021-05-24,android,<20
 2021-05-24,ios,1120
+2021-05-25,android,<20
+2021-05-25,ios,740

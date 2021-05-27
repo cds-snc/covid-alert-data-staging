@@ -1,4 +1,4 @@
-date,number_of_checks,appos,appversion,count
+date,number_of_checks-no_verification,os-se,app_version-version_appli,count-nombre
 2021-03-05,1-6,ios,9.9.9,<20
 2021-03-05,13-30,android,9.9.9,<20
 2021-03-05,7-12,ios,9.9.9,<20
@@ -352,3 +352,9 @@ date,number_of_checks,appos,appversion,count
 2021-05-24,13-30,ios,1.2.10,<20
 2021-05-24,7-12,android,1.2.8,<20
 2021-05-24,7-12,ios,1.2.10,<20
+2021-05-25,1-6,android,1.2.8,<20
+2021-05-25,1-6,android,1.2.10,<20
+2021-05-25,1-6,android,9.9.9,<20
+2021-05-25,1-6,ios,1.2.10,<20
+2021-05-25,13-30,ios,1.2.10,<20
+2021-05-25,7-12,ios,1.2.10,<20

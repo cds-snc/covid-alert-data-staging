@@ -1,4 +1,4 @@
-date,region,appos,count
+date,region,os-se,count-nombre
 2021-04-04,AB,android,<20
 2021-04-04,AB,ios,<20
 2021-04-04,BC,android,<20

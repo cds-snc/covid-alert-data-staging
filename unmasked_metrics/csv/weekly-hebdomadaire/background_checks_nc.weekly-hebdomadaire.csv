@@ -1,4 +1,4 @@
-date,number_of_checks,count
+date,number_of_checks-no_verification,count-nombre
 2021-03-07,0,<20
 2021-03-07,1-6,<20
 2021-03-07,7-12,<20

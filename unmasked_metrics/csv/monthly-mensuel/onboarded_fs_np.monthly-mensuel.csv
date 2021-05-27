@@ -1,4 +1,4 @@
-date,framework_status,notification_permission,count
+date,framework_status-etat_cadre,notification_permission-permission_notif,count-nombre
 2021-02-28,enabled,blocked,<20
 2021-02-28,enabled,granted,<20
 2021-02-28,enabled,denied,<20

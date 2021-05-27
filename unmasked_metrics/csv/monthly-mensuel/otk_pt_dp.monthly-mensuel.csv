@@ -1,4 +1,4 @@
-date,region,date_provided,count
+date,region,date_provided-date_fournie,count-nombre
 2021-03-31,AB,date,<20
 2021-03-31,AB,no_date,<20
 2021-03-31,BC,date,<20
