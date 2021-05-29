@@ -545,3 +545,9 @@ date,framework_status-etat_cadre,notification_permission-permission_notif,count-
 2021-05-26,disabled,blocked,0
 2021-05-26,disabled,granted,0
 2021-05-26,disabled,denied,0
+2021-05-27,enabled,blocked,0
+2021-05-27,enabled,granted,1
+2021-05-27,enabled,denied,0
+2021-05-27,disabled,blocked,0
+2021-05-27,disabled,granted,0
+2021-05-27,disabled,denied,0
