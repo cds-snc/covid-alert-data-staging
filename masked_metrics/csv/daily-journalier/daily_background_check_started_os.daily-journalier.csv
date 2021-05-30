@@ -65,7 +65,7 @@ date,os-se,count-nombre
 2021-05-22,ios,9516
 2021-05-23,android,7
 2021-05-23,ios,2286
-2021-05-24,android,5
+2021-05-24,android,6
 2021-05-24,ios,1120
 2021-05-25,android,6
 2021-05-25,ios,740
@@ -73,3 +73,5 @@ date,os-se,count-nombre
 2021-05-26,ios,420
 2021-05-27,android,1
 2021-05-27,ios,346
+2021-05-28,android,1
+2021-05-28,ios,288
