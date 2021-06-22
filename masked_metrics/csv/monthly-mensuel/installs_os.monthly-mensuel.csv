@@ -1,6 +1,6 @@
 date,os-se,count-nombre
-2021-02-28,android,15
-2021-02-28,ios,15
+2021-02-28,android,<20
+2021-02-28,ios,<20
 2021-03-31,android,244
 2021-03-31,ios,64
 2021-04-30,android,183
