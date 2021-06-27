@@ -440,3 +440,9 @@ date,number_of_checks-no_verification,os-se,app_version-version_appli,count-nomb
 2021-06-24,30+,android,2.0.0,3
 2021-06-24,7-12,android,1.2.8,1
 2021-06-24,7-12,ios,2.0.0,2
+2021-06-25,1-6,ios,2.0.0,3
+2021-06-25,13-30,android,2.0.0,2
+2021-06-25,30+,android,1.2.8,1
+2021-06-25,30+,android,2.0.0,1
+2021-06-25,7-12,android,2.0.0,2
+2021-06-25,7-12,ios,2.0.0,6
