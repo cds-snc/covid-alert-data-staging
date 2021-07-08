@@ -324,7 +324,7 @@ date,region,exposure_status-etat_verification,count-nombre
 2021-06-13,NU,exposed-expose,0
 2021-06-13,NU,monitoring-surveillance,0
 2021-06-13,ON,exposed-expose,0
-2021-06-13,ON,monitoring-surveillance,0
+2021-06-13,ON,monitoring-surveillance,1
 2021-06-13,PE,exposed-expose,0
 2021-06-13,PE,monitoring-surveillance,0
 2021-06-13,QC,exposed-expose,0
