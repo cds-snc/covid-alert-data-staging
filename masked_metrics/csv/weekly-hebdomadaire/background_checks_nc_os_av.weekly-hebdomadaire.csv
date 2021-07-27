@@ -192,3 +192,5 @@ date,number_of_checks-no_verification,os-se,app_version-version_appli,count-nomb
 2021-07-18,13-30,android,2.0.0,<20
 2021-07-18,7-12,android,2.0.0,<20
 2021-07-18,7-12,ios,2.0.0,39
+2021-07-25,1-6,ios,2.0.0,<20
+2021-07-25,7-12,ios,2.0.0,33
