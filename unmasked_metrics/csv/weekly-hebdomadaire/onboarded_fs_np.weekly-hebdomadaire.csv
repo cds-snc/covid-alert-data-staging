@@ -137,3 +137,9 @@ date,framework_status-etat_cadre,notification_permission-permission_notif,count-
 2021-08-01,disabled-desactive,blocked-bloque,0
 2021-08-01,disabled-desactive,granted-autorise,9
 2021-08-01,disabled-desactive,denied-refuse,1
+2021-08-08,enabled-active,blocked-bloque,0
+2021-08-08,enabled-active,granted-autorise,74
+2021-08-08,enabled-active,denied-refuse,1
+2021-08-08,disabled-desactive,blocked-bloque,0
+2021-08-08,disabled-desactive,granted-autorise,17
+2021-08-08,disabled-desactive,denied-refuse,0
