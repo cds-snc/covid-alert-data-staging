@@ -1,8 +1,4 @@
 date,exposure_status-etat_verification,count-nombre
-2021-03-29,exposed-expose,0
-2021-03-29,monitoring-surveillance,1
-2021-03-30,exposed-expose,0
-2021-03-30,monitoring-surveillance,1
 2021-03-31,exposed-expose,0
 2021-03-31,monitoring-surveillance,1
 2021-04-01,exposed-expose,0
@@ -18,9 +14,9 @@ date,exposure_status-etat_verification,count-nombre
 2021-04-06,exposed-expose,0
 2021-04-06,monitoring-surveillance,0
 2021-04-07,exposed-expose,0
-2021-04-07,monitoring-surveillance,4
+2021-04-07,monitoring-surveillance,0
 2021-04-08,exposed-expose,0
-2021-04-08,monitoring-surveillance,3
+2021-04-08,monitoring-surveillance,0
 2021-04-09,exposed-expose,0
 2021-04-09,monitoring-surveillance,1
 2021-04-10,exposed-expose,0
@@ -44,13 +40,13 @@ date,exposure_status-etat_verification,count-nombre
 2021-04-19,exposed-expose,0
 2021-04-19,monitoring-surveillance,0
 2021-04-20,exposed-expose,0
-2021-04-20,monitoring-surveillance,3
+2021-04-20,monitoring-surveillance,0
 2021-04-21,exposed-expose,0
 2021-04-21,monitoring-surveillance,0
 2021-04-22,exposed-expose,0
 2021-04-22,monitoring-surveillance,0
 2021-04-23,exposed-expose,0
-2021-04-23,monitoring-surveillance,1
+2021-04-23,monitoring-surveillance,0
 2021-04-24,exposed-expose,0
 2021-04-24,monitoring-surveillance,0
 2021-04-25,exposed-expose,0
@@ -273,3 +269,5 @@ date,exposure_status-etat_verification,count-nombre
 2021-08-11,monitoring-surveillance,0
 2021-08-12,exposed-expose,0
 2021-08-12,monitoring-surveillance,0
+2021-08-13,exposed-expose,0
+2021-08-13,monitoring-surveillance,0

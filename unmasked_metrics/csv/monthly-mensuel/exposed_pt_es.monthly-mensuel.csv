@@ -11,12 +11,12 @@ date,region,exposure_status-etat_verification,count-nombre
 2021-03-31,NL,monitoring-surveillance,0
 2021-03-31,NT,exposed-expose,0
 2021-03-31,NT,monitoring-surveillance,0
-2021-03-31,NS,exposed-expose,1
+2021-03-31,NS,exposed-expose,0
 2021-03-31,NS,monitoring-surveillance,0
 2021-03-31,NU,exposed-expose,0
 2021-03-31,NU,monitoring-surveillance,0
-2021-03-31,ON,exposed-expose,46
-2021-03-31,ON,monitoring-surveillance,10
+2021-03-31,ON,exposed-expose,17
+2021-03-31,ON,monitoring-surveillance,3
 2021-03-31,PE,exposed-expose,0
 2021-03-31,PE,monitoring-surveillance,0
 2021-03-31,QC,exposed-expose,0
@@ -43,8 +43,8 @@ date,region,exposure_status-etat_verification,count-nombre
 2021-04-30,NS,monitoring-surveillance,0
 2021-04-30,NU,exposed-expose,0
 2021-04-30,NU,monitoring-surveillance,0
-2021-04-30,ON,exposed-expose,194
-2021-04-30,ON,monitoring-surveillance,25
+2021-04-30,ON,exposed-expose,79
+2021-04-30,ON,monitoring-surveillance,11
 2021-04-30,PE,exposed-expose,0
 2021-04-30,PE,monitoring-surveillance,0
 2021-04-30,QC,exposed-expose,0

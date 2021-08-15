@@ -1,14 +1,4 @@
 date,number_of_checks-no_verification,os-se,count-nombre
-2021-03-07,0,android,<20
-2021-03-07,0,ios,<20
-2021-03-07,1-6,android,<20
-2021-03-07,1-6,ios,<20
-2021-03-07,7-12,android,<20
-2021-03-07,7-12,ios,<20
-2021-03-07,13-30,android,<20
-2021-03-07,13-30,ios,<20
-2021-03-07,30+,android,<20
-2021-03-07,30+,ios,<20
 2021-03-14,0,android,<20
 2021-03-14,0,ios,<20
 2021-03-14,1-6,android,<20
@@ -35,7 +25,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-03-28,1-6,ios,<20
 2021-03-28,7-12,android,<20
 2021-03-28,7-12,ios,<20
-2021-03-28,13-30,android,20
+2021-03-28,13-30,android,<20
 2021-03-28,13-30,ios,<20
 2021-03-28,30+,android,<20
 2021-03-28,30+,ios,<20
@@ -44,7 +34,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-04-04,1-6,android,<20
 2021-04-04,1-6,ios,<20
 2021-04-04,7-12,android,<20
-2021-04-04,7-12,ios,32
+2021-04-04,7-12,ios,<20
 2021-04-04,13-30,android,<20
 2021-04-04,13-30,ios,<20
 2021-04-04,30+,android,<20
@@ -54,7 +44,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-04-11,1-6,android,<20
 2021-04-11,1-6,ios,<20
 2021-04-11,7-12,android,<20
-2021-04-11,7-12,ios,32
+2021-04-11,7-12,ios,<20
 2021-04-11,13-30,android,<20
 2021-04-11,13-30,ios,<20
 2021-04-11,30+,android,<20
@@ -64,7 +54,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-04-18,1-6,android,<20
 2021-04-18,1-6,ios,<20
 2021-04-18,7-12,android,<20
-2021-04-18,7-12,ios,33
+2021-04-18,7-12,ios,<20
 2021-04-18,13-30,android,<20
 2021-04-18,13-30,ios,<20
 2021-04-18,30+,android,<20
@@ -74,7 +64,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-04-25,1-6,android,<20
 2021-04-25,1-6,ios,<20
 2021-04-25,7-12,android,<20
-2021-04-25,7-12,ios,31
+2021-04-25,7-12,ios,<20
 2021-04-25,13-30,android,<20
 2021-04-25,13-30,ios,<20
 2021-04-25,30+,android,<20
@@ -82,9 +72,9 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-05-02,0,android,<20
 2021-05-02,0,ios,<20
 2021-05-02,1-6,android,<20
-2021-05-02,1-6,ios,22
+2021-05-02,1-6,ios,<20
 2021-05-02,7-12,android,<20
-2021-05-02,7-12,ios,35
+2021-05-02,7-12,ios,<20
 2021-05-02,13-30,android,<20
 2021-05-02,13-30,ios,<20
 2021-05-02,30+,android,<20
@@ -94,7 +84,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-05-09,1-6,android,<20
 2021-05-09,1-6,ios,23
 2021-05-09,7-12,android,<20
-2021-05-09,7-12,ios,55
+2021-05-09,7-12,ios,48
 2021-05-09,13-30,android,<20
 2021-05-09,13-30,ios,<20
 2021-05-09,30+,android,<20
@@ -104,7 +94,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-05-16,1-6,android,<20
 2021-05-16,1-6,ios,28
 2021-05-16,7-12,android,<20
-2021-05-16,7-12,ios,48
+2021-05-16,7-12,ios,47
 2021-05-16,13-30,android,<20
 2021-05-16,13-30,ios,<20
 2021-05-16,30+,android,<20
