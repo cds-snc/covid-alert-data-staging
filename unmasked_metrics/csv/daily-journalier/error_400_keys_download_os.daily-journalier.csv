@@ -102,7 +102,7 @@ date,os-se,count-nombre
 2021-08-17,android,0
 2021-08-17,ios,0
 2021-08-18,android,0
-2021-08-18,ios,0
+2021-08-18,ios,1
 2021-08-19,android,0
 2021-08-19,ios,0
 2021-08-20,android,0
@@ -167,3 +167,5 @@ date,os-se,count-nombre
 2021-09-18,ios,0
 2021-09-19,android,0
 2021-09-19,ios,0
+2021-09-20,android,0
+2021-09-20,ios,0
