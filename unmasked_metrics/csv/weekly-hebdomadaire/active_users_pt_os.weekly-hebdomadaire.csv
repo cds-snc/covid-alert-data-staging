@@ -771,7 +771,7 @@ date,region,os-se,count-nombre
 2021-09-05,NS,ios,53
 2021-09-05,NU,android,0
 2021-09-05,NU,ios,1
-2021-09-05,ON,android,0
+2021-09-05,ON,android,1
 2021-09-05,ON,ios,668
 2021-09-05,PE,android,0
 2021-09-05,PE,ios,6
@@ -827,7 +827,7 @@ date,region,os-se,count-nombre
 2021-09-19,NS,ios,43
 2021-09-19,NU,android,0
 2021-09-19,NU,ios,1
-2021-09-19,ON,android,1
+2021-09-19,ON,android,2
 2021-09-19,ON,ios,616
 2021-09-19,PE,android,0
 2021-09-19,PE,ios,6
