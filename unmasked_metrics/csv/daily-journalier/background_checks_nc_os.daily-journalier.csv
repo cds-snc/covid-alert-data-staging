@@ -782,7 +782,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-05-26,0,android,0
 2021-05-26,0,ios,0
 2021-05-26,1-6,android,0
-2021-05-26,1-6,ios,1
+2021-05-26,1-6,ios,2
 2021-05-26,7-12,android,0
 2021-05-26,7-12,ios,2
 2021-05-26,13-30,android,1
@@ -794,7 +794,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-05-27,1-6,android,0
 2021-05-27,1-6,ios,1
 2021-05-27,7-12,android,0
-2021-05-27,7-12,ios,1
+2021-05-27,7-12,ios,2
 2021-05-27,13-30,android,1
 2021-05-27,13-30,ios,1
 2021-05-27,30+,android,0
@@ -804,7 +804,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-05-28,1-6,android,0
 2021-05-28,1-6,ios,1
 2021-05-28,7-12,android,1
-2021-05-28,7-12,ios,1
+2021-05-28,7-12,ios,2
 2021-05-28,13-30,android,0
 2021-05-28,13-30,ios,1
 2021-05-28,30+,android,0
@@ -814,7 +814,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-05-29,1-6,android,0
 2021-05-29,1-6,ios,0
 2021-05-29,7-12,android,0
-2021-05-29,7-12,ios,2
+2021-05-29,7-12,ios,3
 2021-05-29,13-30,android,1
 2021-05-29,13-30,ios,1
 2021-05-29,30+,android,0
@@ -824,7 +824,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-05-30,1-6,android,0
 2021-05-30,1-6,ios,1
 2021-05-30,7-12,android,0
-2021-05-30,7-12,ios,1
+2021-05-30,7-12,ios,2
 2021-05-30,13-30,android,0
 2021-05-30,13-30,ios,1
 2021-05-30,30+,android,1
@@ -834,7 +834,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-05-31,1-6,android,0
 2021-05-31,1-6,ios,0
 2021-05-31,7-12,android,0
-2021-05-31,7-12,ios,2
+2021-05-31,7-12,ios,3
 2021-05-31,13-30,android,1
 2021-05-31,13-30,ios,1
 2021-05-31,30+,android,0
@@ -844,7 +844,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-01,1-6,android,0
 2021-06-01,1-6,ios,0
 2021-06-01,7-12,android,1
-2021-06-01,7-12,ios,2
+2021-06-01,7-12,ios,3
 2021-06-01,13-30,android,0
 2021-06-01,13-30,ios,1
 2021-06-01,30+,android,0
@@ -854,7 +854,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-02,1-6,android,0
 2021-06-02,1-6,ios,0
 2021-06-02,7-12,android,1
-2021-06-02,7-12,ios,2
+2021-06-02,7-12,ios,3
 2021-06-02,13-30,android,0
 2021-06-02,13-30,ios,1
 2021-06-02,30+,android,0
@@ -864,7 +864,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-03,1-6,android,1
 2021-06-03,1-6,ios,0
 2021-06-03,7-12,android,0
-2021-06-03,7-12,ios,2
+2021-06-03,7-12,ios,3
 2021-06-03,13-30,android,0
 2021-06-03,13-30,ios,1
 2021-06-03,30+,android,0
@@ -874,7 +874,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-04,1-6,android,0
 2021-06-04,1-6,ios,0
 2021-06-04,7-12,android,1
-2021-06-04,7-12,ios,1
+2021-06-04,7-12,ios,2
 2021-06-04,13-30,android,0
 2021-06-04,13-30,ios,0
 2021-06-04,30+,android,0
@@ -884,7 +884,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-05,1-6,android,0
 2021-06-05,1-6,ios,0
 2021-06-05,7-12,android,0
-2021-06-05,7-12,ios,0
+2021-06-05,7-12,ios,1
 2021-06-05,13-30,android,0
 2021-06-05,13-30,ios,0
 2021-06-05,30+,android,1
@@ -894,7 +894,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-06,1-6,android,0
 2021-06-06,1-6,ios,0
 2021-06-06,7-12,android,1
-2021-06-06,7-12,ios,0
+2021-06-06,7-12,ios,1
 2021-06-06,13-30,android,0
 2021-06-06,13-30,ios,0
 2021-06-06,30+,android,0
@@ -904,7 +904,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-07,1-6,android,0
 2021-06-07,1-6,ios,1
 2021-06-07,7-12,android,0
-2021-06-07,7-12,ios,0
+2021-06-07,7-12,ios,1
 2021-06-07,13-30,android,0
 2021-06-07,13-30,ios,0
 2021-06-07,30+,android,1
@@ -914,7 +914,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-08,1-6,android,0
 2021-06-08,1-6,ios,1
 2021-06-08,7-12,android,0
-2021-06-08,7-12,ios,1
+2021-06-08,7-12,ios,2
 2021-06-08,13-30,android,1
 2021-06-08,13-30,ios,0
 2021-06-08,30+,android,0
@@ -924,7 +924,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-09,1-6,android,0
 2021-06-09,1-6,ios,0
 2021-06-09,7-12,android,1
-2021-06-09,7-12,ios,0
+2021-06-09,7-12,ios,1
 2021-06-09,13-30,android,0
 2021-06-09,13-30,ios,0
 2021-06-09,30+,android,0
@@ -934,7 +934,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-10,1-6,android,0
 2021-06-10,1-6,ios,1
 2021-06-10,7-12,android,0
-2021-06-10,7-12,ios,1
+2021-06-10,7-12,ios,2
 2021-06-10,13-30,android,0
 2021-06-10,13-30,ios,0
 2021-06-10,30+,android,1
@@ -944,7 +944,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-11,1-6,android,0
 2021-06-11,1-6,ios,3
 2021-06-11,7-12,android,0
-2021-06-11,7-12,ios,1
+2021-06-11,7-12,ios,2
 2021-06-11,13-30,android,0
 2021-06-11,13-30,ios,0
 2021-06-11,30+,android,1
@@ -954,7 +954,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-12,1-6,android,0
 2021-06-12,1-6,ios,1
 2021-06-12,7-12,android,1
-2021-06-12,7-12,ios,2
+2021-06-12,7-12,ios,3
 2021-06-12,13-30,android,0
 2021-06-12,13-30,ios,0
 2021-06-12,30+,android,0
@@ -964,7 +964,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-13,1-6,android,0
 2021-06-13,1-6,ios,1
 2021-06-13,7-12,android,1
-2021-06-13,7-12,ios,1
+2021-06-13,7-12,ios,2
 2021-06-13,13-30,android,0
 2021-06-13,13-30,ios,0
 2021-06-13,30+,android,0
@@ -974,7 +974,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-14,1-6,android,0
 2021-06-14,1-6,ios,0
 2021-06-14,7-12,android,0
-2021-06-14,7-12,ios,1
+2021-06-14,7-12,ios,2
 2021-06-14,13-30,android,0
 2021-06-14,13-30,ios,0
 2021-06-14,30+,android,0
@@ -984,7 +984,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-15,1-6,android,0
 2021-06-15,1-6,ios,4
 2021-06-15,7-12,android,0
-2021-06-15,7-12,ios,2
+2021-06-15,7-12,ios,3
 2021-06-15,13-30,android,1
 2021-06-15,13-30,ios,0
 2021-06-15,30+,android,0
@@ -994,7 +994,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-16,1-6,android,0
 2021-06-16,1-6,ios,6
 2021-06-16,7-12,android,1
-2021-06-16,7-12,ios,0
+2021-06-16,7-12,ios,1
 2021-06-16,13-30,android,0
 2021-06-16,13-30,ios,0
 2021-06-16,30+,android,0
@@ -1004,7 +1004,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-17,1-6,android,0
 2021-06-17,1-6,ios,1
 2021-06-17,7-12,android,1
-2021-06-17,7-12,ios,4
+2021-06-17,7-12,ios,5
 2021-06-17,13-30,android,0
 2021-06-17,13-30,ios,0
 2021-06-17,30+,android,0
@@ -1014,7 +1014,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-18,1-6,android,1
 2021-06-18,1-6,ios,2
 2021-06-18,7-12,android,0
-2021-06-18,7-12,ios,4
+2021-06-18,7-12,ios,5
 2021-06-18,13-30,android,0
 2021-06-18,13-30,ios,0
 2021-06-18,30+,android,0
@@ -1024,7 +1024,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-19,1-6,android,1
 2021-06-19,1-6,ios,1
 2021-06-19,7-12,android,0
-2021-06-19,7-12,ios,4
+2021-06-19,7-12,ios,5
 2021-06-19,13-30,android,0
 2021-06-19,13-30,ios,0
 2021-06-19,30+,android,0
@@ -1034,7 +1034,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-20,1-6,android,0
 2021-06-20,1-6,ios,2
 2021-06-20,7-12,android,1
-2021-06-20,7-12,ios,5
+2021-06-20,7-12,ios,6
 2021-06-20,13-30,android,0
 2021-06-20,13-30,ios,0
 2021-06-20,30+,android,0
@@ -1044,7 +1044,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-21,1-6,android,1
 2021-06-21,1-6,ios,4
 2021-06-21,7-12,android,0
-2021-06-21,7-12,ios,1
+2021-06-21,7-12,ios,2
 2021-06-21,13-30,android,0
 2021-06-21,13-30,ios,0
 2021-06-21,30+,android,0
@@ -1054,7 +1054,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-22,1-6,android,1
 2021-06-22,1-6,ios,1
 2021-06-22,7-12,android,0
-2021-06-22,7-12,ios,2
+2021-06-22,7-12,ios,3
 2021-06-22,13-30,android,0
 2021-06-22,13-30,ios,0
 2021-06-22,30+,android,0
@@ -1064,7 +1064,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-23,1-6,android,1
 2021-06-23,1-6,ios,2
 2021-06-23,7-12,android,1
-2021-06-23,7-12,ios,3
+2021-06-23,7-12,ios,4
 2021-06-23,13-30,android,2
 2021-06-23,13-30,ios,0
 2021-06-23,30+,android,0
@@ -1074,7 +1074,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-24,1-6,android,0
 2021-06-24,1-6,ios,1
 2021-06-24,7-12,android,2
-2021-06-24,7-12,ios,3
+2021-06-24,7-12,ios,4
 2021-06-24,13-30,android,2
 2021-06-24,13-30,ios,0
 2021-06-24,30+,android,3
@@ -1122,7 +1122,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-29,0,android,0
 2021-06-29,0,ios,0
 2021-06-29,1-6,android,3
-2021-06-29,1-6,ios,1
+2021-06-29,1-6,ios,2
 2021-06-29,7-12,android,1
 2021-06-29,7-12,ios,5
 2021-06-29,13-30,android,1
@@ -1134,7 +1134,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-06-30,1-6,android,1
 2021-06-30,1-6,ios,5
 2021-06-30,7-12,android,1
-2021-06-30,7-12,ios,5
+2021-06-30,7-12,ios,6
 2021-06-30,13-30,android,3
 2021-06-30,13-30,ios,0
 2021-06-30,30+,android,0
@@ -1144,7 +1144,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-01,1-6,android,1
 2021-07-01,1-6,ios,2
 2021-07-01,7-12,android,1
-2021-07-01,7-12,ios,4
+2021-07-01,7-12,ios,5
 2021-07-01,13-30,android,2
 2021-07-01,13-30,ios,0
 2021-07-01,30+,android,0
@@ -1154,7 +1154,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-02,1-6,android,3
 2021-07-02,1-6,ios,4
 2021-07-02,7-12,android,0
-2021-07-02,7-12,ios,4
+2021-07-02,7-12,ios,5
 2021-07-02,13-30,android,0
 2021-07-02,13-30,ios,0
 2021-07-02,30+,android,0
@@ -1164,7 +1164,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-03,1-6,android,0
 2021-07-03,1-6,ios,6
 2021-07-03,7-12,android,2
-2021-07-03,7-12,ios,6
+2021-07-03,7-12,ios,7
 2021-07-03,13-30,android,2
 2021-07-03,13-30,ios,0
 2021-07-03,30+,android,2
@@ -1174,7 +1174,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-04,1-6,android,2
 2021-07-04,1-6,ios,3
 2021-07-04,7-12,android,2
-2021-07-04,7-12,ios,6
+2021-07-04,7-12,ios,7
 2021-07-04,13-30,android,0
 2021-07-04,13-30,ios,0
 2021-07-04,30+,android,0
@@ -1184,7 +1184,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-05,1-6,android,3
 2021-07-05,1-6,ios,4
 2021-07-05,7-12,android,1
-2021-07-05,7-12,ios,8
+2021-07-05,7-12,ios,9
 2021-07-05,13-30,android,1
 2021-07-05,13-30,ios,0
 2021-07-05,30+,android,0
@@ -1194,7 +1194,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-06,1-6,android,1
 2021-07-06,1-6,ios,4
 2021-07-06,7-12,android,3
-2021-07-06,7-12,ios,8
+2021-07-06,7-12,ios,9
 2021-07-06,13-30,android,0
 2021-07-06,13-30,ios,0
 2021-07-06,30+,android,0
@@ -1204,7 +1204,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-07,1-6,android,2
 2021-07-07,1-6,ios,6
 2021-07-07,7-12,android,0
-2021-07-07,7-12,ios,5
+2021-07-07,7-12,ios,6
 2021-07-07,13-30,android,0
 2021-07-07,13-30,ios,0
 2021-07-07,30+,android,1
@@ -1214,7 +1214,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-08,1-6,android,1
 2021-07-08,1-6,ios,2
 2021-07-08,7-12,android,2
-2021-07-08,7-12,ios,8
+2021-07-08,7-12,ios,9
 2021-07-08,13-30,android,0
 2021-07-08,13-30,ios,0
 2021-07-08,30+,android,0
@@ -1224,7 +1224,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-09,1-6,android,2
 2021-07-09,1-6,ios,4
 2021-07-09,7-12,android,0
-2021-07-09,7-12,ios,5
+2021-07-09,7-12,ios,6
 2021-07-09,13-30,android,1
 2021-07-09,13-30,ios,0
 2021-07-09,30+,android,0
@@ -1234,7 +1234,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-10,1-6,android,1
 2021-07-10,1-6,ios,3
 2021-07-10,7-12,android,1
-2021-07-10,7-12,ios,7
+2021-07-10,7-12,ios,8
 2021-07-10,13-30,android,3
 2021-07-10,13-30,ios,0
 2021-07-10,30+,android,1
@@ -1244,7 +1244,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-11,1-6,android,4
 2021-07-11,1-6,ios,0
 2021-07-11,7-12,android,0
-2021-07-11,7-12,ios,6
+2021-07-11,7-12,ios,7
 2021-07-11,13-30,android,0
 2021-07-11,13-30,ios,0
 2021-07-11,30+,android,0
@@ -1254,7 +1254,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-12,1-6,android,4
 2021-07-12,1-6,ios,3
 2021-07-12,7-12,android,0
-2021-07-12,7-12,ios,7
+2021-07-12,7-12,ios,8
 2021-07-12,13-30,android,0
 2021-07-12,13-30,ios,0
 2021-07-12,30+,android,0
@@ -1264,7 +1264,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-13,1-6,android,2
 2021-07-13,1-6,ios,4
 2021-07-13,7-12,android,1
-2021-07-13,7-12,ios,6
+2021-07-13,7-12,ios,7
 2021-07-13,13-30,android,1
 2021-07-13,13-30,ios,0
 2021-07-13,30+,android,0
@@ -1274,7 +1274,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-14,1-6,android,2
 2021-07-14,1-6,ios,1
 2021-07-14,7-12,android,1
-2021-07-14,7-12,ios,8
+2021-07-14,7-12,ios,9
 2021-07-14,13-30,android,0
 2021-07-14,13-30,ios,0
 2021-07-14,30+,android,0
@@ -1282,7 +1282,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-15,0,android,0
 2021-07-15,0,ios,0
 2021-07-15,1-6,android,1
-2021-07-15,1-6,ios,0
+2021-07-15,1-6,ios,1
 2021-07-15,7-12,android,0
 2021-07-15,7-12,ios,7
 2021-07-15,13-30,android,0
@@ -1294,7 +1294,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-16,1-6,android,0
 2021-07-16,1-6,ios,0
 2021-07-16,7-12,android,1
-2021-07-16,7-12,ios,7
+2021-07-16,7-12,ios,8
 2021-07-16,13-30,android,0
 2021-07-16,13-30,ios,0
 2021-07-16,30+,android,0
@@ -1304,7 +1304,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-17,1-6,android,1
 2021-07-17,1-6,ios,2
 2021-07-17,7-12,android,0
-2021-07-17,7-12,ios,5
+2021-07-17,7-12,ios,6
 2021-07-17,13-30,android,0
 2021-07-17,13-30,ios,0
 2021-07-17,30+,android,0
@@ -1314,7 +1314,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-18,1-6,android,0
 2021-07-18,1-6,ios,2
 2021-07-18,7-12,android,1
-2021-07-18,7-12,ios,5
+2021-07-18,7-12,ios,6
 2021-07-18,13-30,android,0
 2021-07-18,13-30,ios,0
 2021-07-18,30+,android,0
@@ -1324,7 +1324,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-19,1-6,android,1
 2021-07-19,1-6,ios,2
 2021-07-19,7-12,android,0
-2021-07-19,7-12,ios,5
+2021-07-19,7-12,ios,6
 2021-07-19,13-30,android,0
 2021-07-19,13-30,ios,0
 2021-07-19,30+,android,0
@@ -1334,7 +1334,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-20,1-6,android,0
 2021-07-20,1-6,ios,1
 2021-07-20,7-12,android,1
-2021-07-20,7-12,ios,6
+2021-07-20,7-12,ios,7
 2021-07-20,13-30,android,0
 2021-07-20,13-30,ios,0
 2021-07-20,30+,android,0
@@ -1344,7 +1344,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-21,1-6,android,1
 2021-07-21,1-6,ios,1
 2021-07-21,7-12,android,0
-2021-07-21,7-12,ios,6
+2021-07-21,7-12,ios,7
 2021-07-21,13-30,android,0
 2021-07-21,13-30,ios,0
 2021-07-21,30+,android,0
@@ -1352,7 +1352,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-22,0,android,0
 2021-07-22,0,ios,0
 2021-07-22,1-6,android,0
-2021-07-22,1-6,ios,3
+2021-07-22,1-6,ios,4
 2021-07-22,7-12,android,1
 2021-07-22,7-12,ios,4
 2021-07-22,13-30,android,0
@@ -1362,7 +1362,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-23,0,android,0
 2021-07-23,0,ios,0
 2021-07-23,1-6,android,1
-2021-07-23,1-6,ios,0
+2021-07-23,1-6,ios,1
 2021-07-23,7-12,android,0
 2021-07-23,7-12,ios,8
 2021-07-23,13-30,android,0
@@ -1374,7 +1374,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-24,1-6,android,0
 2021-07-24,1-6,ios,1
 2021-07-24,7-12,android,1
-2021-07-24,7-12,ios,4
+2021-07-24,7-12,ios,5
 2021-07-24,13-30,android,0
 2021-07-24,13-30,ios,0
 2021-07-24,30+,android,0
@@ -1382,7 +1382,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-25,0,android,0
 2021-07-25,0,ios,0
 2021-07-25,1-6,android,0
-2021-07-25,1-6,ios,1
+2021-07-25,1-6,ios,2
 2021-07-25,7-12,android,1
 2021-07-25,7-12,ios,2
 2021-07-25,13-30,android,0
@@ -1392,7 +1392,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-26,0,android,0
 2021-07-26,0,ios,0
 2021-07-26,1-6,android,1
-2021-07-26,1-6,ios,3
+2021-07-26,1-6,ios,4
 2021-07-26,7-12,android,0
 2021-07-26,7-12,ios,3
 2021-07-26,13-30,android,0
@@ -1404,7 +1404,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-27,1-6,android,0
 2021-07-27,1-6,ios,4
 2021-07-27,7-12,android,1
-2021-07-27,7-12,ios,2
+2021-07-27,7-12,ios,3
 2021-07-27,13-30,android,0
 2021-07-27,13-30,ios,0
 2021-07-27,30+,android,0
@@ -1412,7 +1412,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-28,0,android,0
 2021-07-28,0,ios,0
 2021-07-28,1-6,android,0
-2021-07-28,1-6,ios,1
+2021-07-28,1-6,ios,2
 2021-07-28,7-12,android,1
 2021-07-28,7-12,ios,5
 2021-07-28,13-30,android,0
@@ -1424,7 +1424,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-29,1-6,android,0
 2021-07-29,1-6,ios,1
 2021-07-29,7-12,android,1
-2021-07-29,7-12,ios,5
+2021-07-29,7-12,ios,6
 2021-07-29,13-30,android,0
 2021-07-29,13-30,ios,0
 2021-07-29,30+,android,0
@@ -1434,7 +1434,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-30,1-6,android,0
 2021-07-30,1-6,ios,2
 2021-07-30,7-12,android,2
-2021-07-30,7-12,ios,4
+2021-07-30,7-12,ios,5
 2021-07-30,13-30,android,0
 2021-07-30,13-30,ios,0
 2021-07-30,30+,android,0
@@ -1444,7 +1444,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-07-31,1-6,android,2
 2021-07-31,1-6,ios,2
 2021-07-31,7-12,android,0
-2021-07-31,7-12,ios,3
+2021-07-31,7-12,ios,4
 2021-07-31,13-30,android,2
 2021-07-31,13-30,ios,0
 2021-07-31,30+,android,0
@@ -1454,7 +1454,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-08-01,1-6,android,3
 2021-08-01,1-6,ios,2
 2021-08-01,7-12,android,3
-2021-08-01,7-12,ios,3
+2021-08-01,7-12,ios,4
 2021-08-01,13-30,android,0
 2021-08-01,13-30,ios,0
 2021-08-01,30+,android,0
@@ -1472,7 +1472,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-08-03,0,android,0
 2021-08-03,0,ios,0
 2021-08-03,1-6,android,3
-2021-08-03,1-6,ios,1
+2021-08-03,1-6,ios,2
 2021-08-03,7-12,android,1
 2021-08-03,7-12,ios,3
 2021-08-03,13-30,android,0
@@ -1562,7 +1562,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-08-12,0,android,0
 2021-08-12,0,ios,0
 2021-08-12,1-6,android,2
-2021-08-12,1-6,ios,6
+2021-08-12,1-6,ios,7
 2021-08-12,7-12,android,3
 2021-08-12,7-12,ios,3
 2021-08-12,13-30,android,1
@@ -1572,7 +1572,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-08-13,0,android,0
 2021-08-13,0,ios,0
 2021-08-13,1-6,android,4
-2021-08-13,1-6,ios,2
+2021-08-13,1-6,ios,3
 2021-08-13,7-12,android,1
 2021-08-13,7-12,ios,6
 2021-08-13,13-30,android,0
@@ -1584,7 +1584,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-08-14,1-6,android,7
 2021-08-14,1-6,ios,3
 2021-08-14,7-12,android,0
-2021-08-14,7-12,ios,5
+2021-08-14,7-12,ios,6
 2021-08-14,13-30,android,0
 2021-08-14,13-30,ios,0
 2021-08-14,30+,android,0
@@ -1594,7 +1594,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-08-15,1-6,android,6
 2021-08-15,1-6,ios,4
 2021-08-15,7-12,android,0
-2021-08-15,7-12,ios,4
+2021-08-15,7-12,ios,5
 2021-08-15,13-30,android,0
 2021-08-15,13-30,ios,0
 2021-08-15,30+,android,0
@@ -1604,7 +1604,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-08-16,1-6,android,4
 2021-08-16,1-6,ios,3
 2021-08-16,7-12,android,0
-2021-08-16,7-12,ios,5
+2021-08-16,7-12,ios,6
 2021-08-16,13-30,android,0
 2021-08-16,13-30,ios,0
 2021-08-16,30+,android,0
@@ -1614,7 +1614,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-08-17,1-6,android,3
 2021-08-17,1-6,ios,7
 2021-08-17,7-12,android,1
-2021-08-17,7-12,ios,4
+2021-08-17,7-12,ios,5
 2021-08-17,13-30,android,0
 2021-08-17,13-30,ios,0
 2021-08-17,30+,android,0
@@ -1624,7 +1624,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-08-18,1-6,android,4
 2021-08-18,1-6,ios,3
 2021-08-18,7-12,android,0
-2021-08-18,7-12,ios,4
+2021-08-18,7-12,ios,5
 2021-08-18,13-30,android,0
 2021-08-18,13-30,ios,1
 2021-08-18,30+,android,0
@@ -2079,3 +2079,13 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-10-02,13-30,ios,0
 2021-10-02,30+,android,0
 2021-10-02,30+,ios,0
+2021-10-03,0,android,0
+2021-10-03,0,ios,0
+2021-10-03,1-6,android,1
+2021-10-03,1-6,ios,0
+2021-10-03,7-12,android,0
+2021-10-03,7-12,ios,4
+2021-10-03,13-30,android,0
+2021-10-03,13-30,ios,0
+2021-10-03,30+,android,0
+2021-10-03,30+,ios,0
