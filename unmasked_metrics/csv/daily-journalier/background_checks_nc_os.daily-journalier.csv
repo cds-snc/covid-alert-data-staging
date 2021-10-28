@@ -2082,7 +2082,7 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-10-03,0,android,0
 2021-10-03,0,ios,0
 2021-10-03,1-6,android,1
-2021-10-03,1-6,ios,0
+2021-10-03,1-6,ios,1
 2021-10-03,7-12,android,0
 2021-10-03,7-12,ios,4
 2021-10-03,13-30,android,0
@@ -2309,3 +2309,13 @@ date,number_of_checks-no_verification,os-se,count-nombre
 2021-10-25,13-30,ios,0
 2021-10-25,30+,android,0
 2021-10-25,30+,ios,0
+2021-10-26,0,android,0
+2021-10-26,0,ios,0
+2021-10-26,1-6,android,1
+2021-10-26,1-6,ios,3
+2021-10-26,7-12,android,0
+2021-10-26,7-12,ios,1
+2021-10-26,13-30,android,0
+2021-10-26,13-30,ios,0
+2021-10-26,30+,android,0
+2021-10-26,30+,ios,0
