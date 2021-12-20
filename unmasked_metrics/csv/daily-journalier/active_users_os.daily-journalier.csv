@@ -524,7 +524,7 @@ date,os-se,count-nombre
 2021-11-13,android,1
 2021-11-13,ios,661
 2021-11-14,android,1
-2021-11-14,ios,675
+2021-11-14,ios,676
 2021-11-15,android,1
 2021-11-15,ios,656
 2021-11-16,android,1
@@ -591,3 +591,5 @@ date,os-se,count-nombre
 2021-12-16,ios,498
 2021-12-17,android,0
 2021-12-17,ios,482
+2021-12-18,android,0
+2021-12-18,ios,493
