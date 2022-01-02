@@ -1847,3 +1847,15 @@ date,framework_status-etat_cadre,notification_permission-permission_notif,count-
 2021-12-29,disabled-desactive,blocked-bloque,0
 2021-12-29,disabled-desactive,granted-autorise,0
 2021-12-29,disabled-desactive,denied-refuse,0
+2021-12-30,enabled-active,blocked-bloque,0
+2021-12-30,enabled-active,granted-autorise,0
+2021-12-30,enabled-active,denied-refuse,0
+2021-12-30,disabled-desactive,blocked-bloque,0
+2021-12-30,disabled-desactive,granted-autorise,0
+2021-12-30,disabled-desactive,denied-refuse,0
+2021-12-31,enabled-active,blocked-bloque,0
+2021-12-31,enabled-active,granted-autorise,0
+2021-12-31,enabled-active,denied-refuse,0
+2021-12-31,disabled-desactive,blocked-bloque,0
+2021-12-31,disabled-desactive,granted-autorise,0
+2021-12-31,disabled-desactive,denied-refuse,0
